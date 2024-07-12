@@ -1,1 +1,2 @@
 zemal/watchvuln:latest
+ghcr.io/mhprodev/mhddos:latest
