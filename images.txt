@@ -1,2 +1,4 @@
+h2oai/h2ogpt:latest
 ghcr.io/mhprodev/mhddos:latest
 h2oai/h2ogpt:latest
+
