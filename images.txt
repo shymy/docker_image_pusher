@@ -1,3 +1,2 @@
 ghcr.io/mhprodev/mhddos:latest
-zemal/watchvuln:latest
 h2oai/h2ogpt:latest
